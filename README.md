@@ -220,10 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support & Community
 
-- **Documentation**: [Wiki](https://github.com/your-username/sui-launchpad-smart-contract/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/sui-launchpad-smart-contract/discussions)
-- **Issues**: [GitHub Issues](https://github.com/your-username/sui-launchpad-smart-contract/issues)
-- **Telegram**: [@NightFly](https://t.me/itsnightfly)
+- **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
 
 ## 🙏 Acknowledgments
 
