@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support & Community
 
-- **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
+- **Telegram**: [@BuckyBonez](https://t.me/buckybonez)
 
 ## 🙏 Acknowledgments
 
